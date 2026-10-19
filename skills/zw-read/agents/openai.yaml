@@ -1,0 +1,5 @@
+interface:
+  display_name: "zw-read"
+  short_description: "Read, rename, and summarize a local scientific paper"
+policy:
+  allow_implicit_invocation: false
